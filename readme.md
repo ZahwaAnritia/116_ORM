@@ -5,6 +5,9 @@
 ### 1. POST
 ![POST](./images/post.png)
 
-### 1. POST
+### 2. GET
 ![GET](./images/get.png)
+
+### 3. PUT
+![GET](./images/put.png)
 
