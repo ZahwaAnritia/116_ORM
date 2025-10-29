@@ -9,5 +9,7 @@
 ![GET](./images/get.png)
 
 ### 3. PUT
-![GET](./images/put.png)
+![PUT](./images/put.png)
 
+### 4. DELETE
+![DELETE](delete.png)
